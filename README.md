@@ -26,6 +26,7 @@ Pistas:
  Ejecutar el comando <' node app.js '> para ver el resultado del codigo
 
 */
+
  /*EXPLICACION:
 
 
@@ -72,3 +73,4 @@ Este código de JavaScript tiene como objetivo imprimir un corazón ASCII en la 
 - ya solo queda llamar a la función con los argumentos dados pero poniendo el tiempo de delay en ms ente los caracteres.
 
 */
+
